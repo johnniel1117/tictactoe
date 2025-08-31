@@ -140,7 +140,7 @@ const TicTacToe = () => {
           <h1 className="text-5xl font-bold text-gray-800 mb-2 tracking-tight">
             Monkey vs Banana
           </h1>
-          <p className="text-gray-600 text-lg">Johnniel's Tic-Tac-Toe!</p>
+          <p className="text-gray-600 text-lg">Johnniel's Tic-Tac-Toe</p>
         </div>
 
         {/* Score Board */}
