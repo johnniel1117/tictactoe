@@ -18,9 +18,9 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Figma Mastery Tutorial - From 0 to Pro",
-  description: "Complete interactive tutorial to master Figma design skills from beginner to professional level",
-  generator: "v0.app",
+  title: "Tictactoe Game",
+  description: "Play the classic Tictactoe game online",
+  
 }
 
 export default function RootLayout({
